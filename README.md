@@ -31,7 +31,7 @@ A simple and responsive React + Vite + TypeScript application that fetches and d
 
    Create a .env file in the root of the project and add your API endpoint:
 
-   VITE_API_URL=<URL from the task requirements>
+   VITE_API_URL=URL from the task requirements
 
 
 4. Run the development server
